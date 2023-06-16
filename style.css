@@ -1,0 +1,131 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header-control
+{
+    background-color: #3F5C9A;
+    border-bottom: 2px solid #253a69;
+    height: 90px;
+}
+.control-align
+{
+    width: 980px;
+    height: 300px;
+}
+background-color
+{
+    background-color: #4267b2;  
+}
+.login
+{
+    float: right;
+    font-family: Arial;
+    font-size: 13px;
+    color: white;
+    margin-top: 20px;
+    margin-right: -300px;
+}
+.login p 
+{
+    margin-left: 10px;
+}
+.inputtxt
+{
+    width: 150px;
+    height: 20px;
+    margin-left: 10px;
+}
+.btn
+{
+    background-color: #2980b9;
+    color:white;
+    font-family: Arial;
+    padding: 05px, 05px, 05px;
+    border: none;
+    border-radius: 03px;
+    margin-left: 05px;
+}
+.login a
+{
+    color: white;
+    text-decoration: none;
+}
+.content-control
+{
+    width: 980px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left
+{
+    float: left;
+    margin-top: 20px;
+    width: 400px;
+    font-family: Arial;
+    color: black;
+    margin-right: 1000px;
+}
+.left h3
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.community
+{
+    margin-left: -10rem;
+    width: 600px;
+}
+.text
+{
+    margin-left: -9rem;
+}
+.right
+{
+    float: right;
+    font-family: Arial;
+    margin-top: -300px;
+    margin-left: 20px;
+    margin-right: -100px;
+}
+.ipt
+{
+    width: 180px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 05px;
+    border-radius: 03px;
+    border: none;
+    border: 1px solid #95a5a6;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.ipt2
+{
+    width: 380px;
+    height: 30px;
+    border-radius: 03px;
+    padding-left: 10px;
+    font-size: 20px;
+    border: none;
+    border: 1px solid #95a5a6;
+    margin-left: 05px;
+    margin-top: 10px;
+}
+.dropdown
+{
+    width: 80px;
+    height: 30px;
+}
+.down
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
